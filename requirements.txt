@@ -1,0 +1,4 @@
+seaborn
+datasets
+ripser
+persim
